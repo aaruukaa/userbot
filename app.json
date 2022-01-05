@@ -1,7 +1,7 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "name": "ARKUserbot",
+  "description": "[ARKUserbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/file/c45b4f24c8200484280b5.png",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
   "repository": "https://github.com/mrismanaziz/Man-Userbot",
   "telegram": "https://t.me/mrismanaziz",
@@ -55,11 +55,6 @@
       "description": "Costum Nama Sticker Pack Mu",
       "required": false
     },
-    "WEATHER_DEFCITY": {
-      "description": "isi kota kamu tinggal untuk default module .weather / cuaca",
-      "value": "Jakarta",
-      "required": false
-    }
   },
   "addons": [
     {
